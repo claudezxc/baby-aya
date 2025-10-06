@@ -15,17 +15,44 @@ export default function GodParents() {
         <div>
           <h3>Ninongs</h3>
           <ul>
-            <li>Lucas</li>
-            <li>Matt</li>
-            <li>Michael</li>
+            <li>Thomas A.</li>
+            <li>Antonio</li>
+            <li>Louie</li>
+            <li>Piczon</li>
+            <li>Dave</li>
+            <li>Teejay</li>
+            <li>Nino</li>
+            <li>Brix</li>
+            <li>Cyril</li>
+            <li>Ian</li>
+            <li>Carlo</li>
+            <li>James</li>
+            <li>Christian</li>
+            <li>Harold</li>
+            <li>Emman</li>
+            <li>Arman</li>
+            <li>John Paul</li>
           </ul>
         </div>
         <div>
           <h3>Ninangs</h3>
           <ul>
-            <li>Fiona</li>
-            <li>Gabrielle</li>
-            <li>Grace</li>
+            <li>April C.</li>
+            <li>Lourdes</li>
+            <li>Kya</li>
+            <li>Marian</li>
+            <li>Marsha</li>
+            <li>Zyra</li>
+            <li>Angie</li>
+            <li>Alona</li>
+            <li>Clea</li>
+            <li>Cleo</li>
+            <li>Camille</li>
+            <li>Abegaile</li>
+            <li>Jinky</li>
+            <li>Abby</li>
+            <li>Daiserie</li>
+            <li>Mary Cris</li>
           </ul>
         </div>
       </div>
