@@ -3,7 +3,9 @@ import React from 'react';
 
 export default function DressCode() {
   return (
-    <section id="dress-code" style={{padding: '5rem 2rem', 
+    <section id="dress-code" 
+      style={{
+        padding: '5rem 2rem', 
         textAlign: 'center',
         maxWidth: '800px',
         minHeight: '100vh',

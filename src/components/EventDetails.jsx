@@ -9,7 +9,7 @@ export default function EventDetails() {
       {/* Calendar Section */}
       <div className="calendar-row">
         <div className="calendar-day">THURSDAY</div>
-        <div className="calendar-date" style={{left: '20px'}}>
+        <div className="calendar-date">
           <span className="calendar-number">30</span>
           <span className="calendar-month">OCTOBER</span>
         </div>
