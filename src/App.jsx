@@ -4,13 +4,12 @@ import Hero from './components/Hero';
 import EventDetails from './components/EventDetails';
 import GodParents from './components/GodParents';
 import DressCode from './components/DressCode';
-import butterfly from './assets/butterflies.png'; // Ensure you have a butterfly image in assets
 
 function App() {
   return (
     <>
       <Navbar />
-      <img
+      {/* <img
         src={butterfly}
         alt="Butterfly"
         style={{
@@ -23,7 +22,7 @@ function App() {
           zIndex: 0,           // behind main content
           pointerEvents: 'none'
         }}
-      />
+      /> */}
       <Hero />
       <EventDetails />
       <GodParents />
